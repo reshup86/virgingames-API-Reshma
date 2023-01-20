@@ -1,0 +1,3 @@
+com\virgingames\gorest\cucumber\CucumberRunner.class
+com\virgingames\gorest\testbase\TestBase.class
+com\virgingames\gorest\cucumber\steps\MyStepdefs.class
